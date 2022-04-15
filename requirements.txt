@@ -1,0 +1,7 @@
+flask
+flask_session
+flask_cors
+requests
+cv2
+pillow
+asyncio
